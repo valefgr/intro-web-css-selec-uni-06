@@ -1,0 +1,18 @@
+/* Ejercicio 1.
+    Añade el selector universal *{}
+
+    Ejercicio 2.
+    Agrega la propiedad "font-family" con el valor "'Lucida Sans', Verdana, sans-serif "
+*/
+
+body{
+    background-color: white;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    align-items: center;
+}
